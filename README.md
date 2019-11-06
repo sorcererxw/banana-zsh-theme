@@ -1,5 +1,9 @@
 # Banana ZSH theme
 
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
+
+## Screenshot
+
 ![screenshot](https://github.com/sorcererxw/banana-zsh-theme/raw/master/screenshot.png)
 
 ## Usage
